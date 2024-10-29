@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.4a38f507.css",
+    "main.js": "/react-gh-pages/static/js/main.f376cab2.js",
+    "static/js/453.ed3810f9.chunk.js": "/react-gh-pages/static/js/453.ed3810f9.chunk.js",
+    "static/media/file.png": "/react-gh-pages/static/media/file.f9ce5fe4a4d18723e8da.png",
+    "static/media/urban.png": "/react-gh-pages/static/media/urban.51d7595c7ec01a07e076.png",
+    "static/media/baja17.jpg": "/react-gh-pages/static/media/baja17.c2f7430e040bc9957613.jpg",
+    "static/media/baja3.jpg": "/react-gh-pages/static/media/baja3.6df7620a4798ea41116f.jpg",
+    "static/media/logopng.png": "/react-gh-pages/static/media/logopng.e7bf90097a97a30940be.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.4a38f507.css.map": "/react-gh-pages/static/css/main.4a38f507.css.map",
+    "main.f376cab2.js.map": "/react-gh-pages/static/js/main.f376cab2.js.map",
+    "453.ed3810f9.chunk.js.map": "/react-gh-pages/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a38f507.css",
+    "static/js/main.f376cab2.js"
+  ]
+}
