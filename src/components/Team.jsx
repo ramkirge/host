@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
-import baja17 from '../assets/baja17.jpg'
+import user from '../assets/user.jpeg'
+import userf from '../assets/user.jpeg'
+
 import { BsLinkedin } from "react-icons/bs";
 
 function Team() {
@@ -9,55 +11,61 @@ function Team() {
 
   const members = [
     {
+      name : 'Viren Pardeshi',
+      position : 'Captain',
+      education : 'Mechanical Engineering, 3rd year',
+      linkidn : 'iiuhihiu',
+      profile : require('../assets/user.jpeg')
+
+    },
+    {
+      name : 'Yash Kshirsagar',
+      position : 'Vice Captain ',
+      education : 'Mechanical Engineering, 4th year',
+      linkidn : 'iiuhihiu',
+      profile : require('../assets/user.jpeg')
+
+    },
+
+    {
+      name : 'Shivam Naragude',
+      position : 'Manager',
+      education : 'Mechanical Engineering, 4th year',
+      linkidn : 'iiuhihiu',
+      profile : require('../assets/user.jpeg')
+
+    },
+
+    {
+      name : 'Aditya Bhavsar',
+      position : 'Powertrain System Head',
+      education : 'Electronics and Communication Engineering, 3rd year',
+      linkidn : 'iiuhihiu',
+      profile : require('../assets/user.jpeg')
+
+    },
+    {
       name : 'Ram Kirge',
       position : 'Electrical System Head',
       education : 'Computer Science and Engineering, 2nd year',
       linkidn : 'iiuhihiu',
-      profile : 'baja17'
+      profile : require('../assets/user.jpeg')
 
     },
     {
       name : 'Ram Kirge',
       position : 'Electrical System Head',
       education : 'Computer Science and Engineering, 2nd year',
-      linkidn : 'iiuhihiu'
-
-    },
-
-    {
-      name : 'Ram Kirge',
-      position : 'Electrical System Head',
-      education : 'Computer Science and Engineering, 2nd year',
-      linkidn : 'iiuhihiu'
-
-    },
-
-    {
-      name : 'Ram Kirge',
-      position : 'Electrical System Head',
-      education : 'Computer Science and Engineering, 2nd year',
-      linkidn : 'iiuhihiu'
+      linkidn : 'iiuhihiu',
+      profile : require('../assets/user.jpeg')
 
     },
     {
       name : 'Ram Kirge',
       position : 'Electrical System Head',
       education : 'Computer Science and Engineering, 2nd year',
-      linkidn : 'iiuhihiu'
-
-    },
-    {
-      name : 'Ram Kirge',
-      position : 'Electrical System Head',
-      education : 'Computer Science and Engineering, 2nd year',
-      linkidn : 'iiuhihiu'
-
-    },
-    {
-      name : 'Ram Kirge',
-      position : 'Electrical System Head',
-      education : 'Computer Science and Engineering, 2nd year',
-      linkidn : 'iiuhihiu'
+      linkidn : 'iiuhihiu',
+      profile : require('../assets/userf.jpeg')
 
     }
 
@@ -85,7 +93,7 @@ function Team() {
          className='p-5 bg-black border-b-2 px-8 lg:w-1/4  h-auto border-red-600 hover:border-2  transition duration-300 '>
           
           <div className='flex flex-col'>
-            <div className='p-5'><img className='h-80' src={baja17} alt="" /></div>
+            <div className='p-5'><img className='h-80' src={user} alt="" /></div>
             <div className='flex flex-col space-y-5 text-center p-4'>
               <h2 className='text-2xl'>Prof. Amitpalsingh Punewala</h2>
               <p>Faculty Advisor</p>
@@ -108,7 +116,7 @@ function Team() {
             >
           
               <div className={`flex flex-col ${hoveredMember === index ? 'bg-black/90' : ''}`}>
-                <div className='p-5'><img className='h-80' src={baja17} alt="" /></div>
+                <div className='p-5'><img className='h-80' src={member.profile} alt="" /></div>
                 <div className='flex flex-col space-y-5 text-center p-4'>
                   <h2 className='text-2xl'>{member.name}</h2>
                   <p>{member.position}</p>
