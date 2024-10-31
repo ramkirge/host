@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/host/static/css/main.25c992aa.css",
-    "main.js": "/host/static/js/main.7220a654.js",
+    "main.js": "/host/static/js/main.71c53119.js",
     "static/js/453.68693753.chunk.js": "/host/static/js/453.68693753.chunk.js",
     "static/media/file.png": "/host/static/media/file.f9ce5fe4a4d18723e8da.png",
     "static/media/baja18.png": "/host/static/media/baja18.25321b3dba4480696d82.png",
@@ -10,6 +10,7 @@
     "static/media/baja.jpg": "/host/static/media/baja.c2f7430e040bc9957613.jpg",
     "static/media/baja17.jpg": "/host/static/media/baja17.c2f7430e040bc9957613.jpg",
     "static/media/baja26.jpg": "/host/static/media/baja26.2a15b4cde5a891d5e407.jpg",
+    "static/media/aditya.jpg": "/host/static/media/aditya.666e5725267900340d2f.jpg",
     "static/media/baja14.jpg": "/host/static/media/baja14.71f69071c706fb26044d.jpg",
     "static/media/baja24.jpg": "/host/static/media/baja24.fd047684716e2c83d1e2.jpg",
     "static/media/baja15.jpg": "/host/static/media/baja15.37e3b5ce8ebc36abaf4e.jpg",
@@ -26,8 +27,10 @@
     "static/media/baja5.jpg": "/host/static/media/baja5.bf11f3b31dda838c5712.jpg",
     "static/media/baja13.jpg": "/host/static/media/baja13.8e417d64d89e7833e3b9.jpg",
     "static/media/baja11.jpg": "/host/static/media/baja11.e49e59eed38cfbb902e5.jpg",
+    "static/media/prasad.jpg": "/host/static/media/prasad.ee8b9053ac91fb4ee9e7.jpg",
     "static/media/baja6.jpg": "/host/static/media/baja6.8e464d15e9bad512a89a.jpg",
     "static/media/baja2.jpg": "/host/static/media/baja2.4b8e729c4882ec6f9c00.jpg",
+    "static/media/kulpreet.jpg": "/host/static/media/kulpreet.70c464eab004eafe8691.jpg",
     "static/media/baja1.jpg": "/host/static/media/baja1.a4b95bad3a2c3dd15f8a.jpg",
     "static/media/baja22.jpg": "/host/static/media/baja22.49cd71f9e3ea25dff7bc.jpg",
     "static/media/logopng.png": "/host/static/media/logopng.e7bf90097a97a30940be.png",
@@ -35,13 +38,15 @@
     "static/media/baja20.jpg": "/host/static/media/baja20.f53037a6e19283fc43ed.jpg",
     "static/media/baja27.jpg": "/host/static/media/baja27.f53037a6e19283fc43ed.jpg",
     "static/media/baja9.jpg": "/host/static/media/baja9.7d08f631819ea2280a36.jpg",
+    "static/media/shivam.jpeg": "/host/static/media/shivam.db1d2e46520d3161fe1d.jpeg",
+    "static/media/amitpal.jpeg": "/host/static/media/amitpal.c33ee423d616983645e4.jpeg",
     "index.html": "/host/index.html",
     "main.25c992aa.css.map": "/host/static/css/main.25c992aa.css.map",
-    "main.7220a654.js.map": "/host/static/js/main.7220a654.js.map",
+    "main.71c53119.js.map": "/host/static/js/main.71c53119.js.map",
     "453.68693753.chunk.js.map": "/host/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25c992aa.css",
-    "static/js/main.7220a654.js"
+    "static/js/main.71c53119.js"
   ]
 }
