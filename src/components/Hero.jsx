@@ -14,7 +14,7 @@ function Hero() {
                 <img src={logopng} alt="" />
               </div>
               <span className='text-5xl lg:text-8xl'>TEAM </span>
-              <span className='text-5xl lg:text-8xl'>  VIDYUTASWA</span>
+              <span className='text-5xl lg:text-8xl'>  VIDYUTASHWA</span>
             </div>
           
           </div>

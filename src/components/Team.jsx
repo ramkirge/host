@@ -170,6 +170,16 @@ function Team() {
     },
 
     {
+      name : 'MOHIT GAWALI',
+      position : 'Breaking System Member',
+      education : 'Mechanical Engineering, Third year',
+      linkedin : 'https://www.linkedin.com/in/mohit-gawli-49897a2b3/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+      profile : require('../assets/member/user.jpeg')
+
+    },
+
+
+    {
       name : 'VIVEK CHAVAN',
       position : 'Suspension System Member',
       education : 'Mechanical Engineering, Third year',
@@ -262,7 +272,7 @@ function Team() {
       
       <div className='flex flex-col space-y-36   items-center bg-black/60 justify-center text-slate-200 w-screen h-screen'>
         <div className='p-8 text-center lg:w-1/2 flex justify-center absolute  items-center h-fit flex-col space-y-8'>
-            <h1 className='text-4xl lg:text-5xl  p-4'>MEAT THE TEAM</h1>
+            <h1 className='text-4xl lg:text-5xl  p-4'>MEET THE TEAM</h1>
             <p className='p-3 text-2xl'>Welcome to the faces Of Team Vidyutashwa </p>
         </div>
         

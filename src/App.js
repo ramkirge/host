@@ -11,6 +11,8 @@ import Contact from './components/Contact';
 import Gallery from './components/Gallery';
 import Sponser from './components/Sponser';
 import Team  from './components/Team';
+import Footer from './components/Footer';
+
 
 
 
@@ -39,6 +41,7 @@ export default function App() {
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/ourteam" element={<Team />} />
         </Routes>
+        <Footer/>
 
         </div>
       </Router>
