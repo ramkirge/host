@@ -45,7 +45,17 @@ function Sponser() {
                         <a href="" className='text-red-600 underline'>   sponsorship  package</a> and learn how you can help by
                         <a href="" className='text-red-600 underline'> contacting us</a>  today!
                     </p>
-                    <button className='bg-red-600 rounded-full p-4 mt-10 hover:bg-red-700'>Sponsorship Package</button>
+                    <button className='bg-red-600 rounded-full p-4 mt-10 hover:bg-red-700'>
+                        <a 
+                        href="/vidyutashwa.pdf" // path to your PDF file in the public folder
+                        download="TeamVidyutashwa.pdf" // downloaded filename
+                        target="_blank" // opens PDF in a new tab
+                        rel="noopener noreferrer" // security for external links
+                        className="text-white"
+                        >
+                            Sponsership packages
+                        </a>
+                    </button>
                 </div>
             </div>
     </Element>
